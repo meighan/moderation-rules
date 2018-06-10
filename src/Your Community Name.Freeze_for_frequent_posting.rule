@@ -16,5 +16,5 @@
     <masterLabel>Freeze members whose posts or comments exceed the allowed rate</masterLabel>
     <timePeriod>Short</timePeriod>
     <type>Rate</type>
-    <userCriteria>Snaily Community.Partner_and_Customer_members</userCriteria>
+    <userCriteria>Build Your Own.Partner_and_Customer_members</userCriteria>
 </ModerationRule>
